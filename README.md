@@ -5,7 +5,8 @@ This project use for take some notes...
 
 <p>The project is used for React native. The project is use for basic react native components.</p>
 
-<h4>React native project creating commend: yarn create expo-app "Your Project Name"</h4><br>
+<h4>React native project creating commend: yarn create expo-app "Your Project Name"</h4>
+<p>The shopping list application is performed by a todo list method.</p>
 The sample image is given below...<br>
 <img src="https://github.com/lokis1107/shopping-list/assets/139110018/90ed98f0-7776-4224-b7b6-4806820cb03b" alt="" style="height: 400px; width: 200px;"><br>
 The uses of Shopping List :-
